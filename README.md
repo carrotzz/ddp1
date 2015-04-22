@@ -1,19 +1,14 @@
-Developing-Data-Products-Project
+DDP Project
 ================================
 
-This is the repository where Developing Data Products Project assignment is located:
-The shiny application developed is a Body Mass Index Calculator.
-It is very simple to use, just insert your weight and your height and click submit and you'll get your BMI and the diagnostic.
-The files of the applications are:
-* ui.R
-* server.R
+This is the repo for DDP Project, the shiny applicataion developed is a simple BMI Calculator since it is easier to relate to our daily life. 
 
-The application is accesible in: https://ibon.shinyapps.io/BMI_app/
+Users just need to input your weight, height and then submit to get your BMI, diagnostic and graphical presentation of where you are. 
 
-After a presentation of the application is disigned using slidify. The presentation could be visualized in:
+Files for the application are in (i) UI.R & (ii) Server.R
 
-http://ibonaranburu.github.io/Data-Product-Presentation/index.html
+The application is accessible in https://carrotzz.shinyapps.io/ddp1/ and slide presentation of the application by slidify can be seen following the links:
+1)
+2) 
 
-or in:
 
-http://rpubs.com/ibonaranburu/21292
