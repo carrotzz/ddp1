@@ -7,8 +7,8 @@ Users just need to input your weight, height and then submit to get your BMI, di
 
 Files for the application are in (i) UI.R & (ii) Server.R
 
-The application is accessible in https://carrotzz.shinyapps.io/ddp1/ and slide presentation of the application by slidify can be seen following the links:
-1)
-2) 
+The application is accessible in https://carrotzz.shinyapps.io/ddp1/ and slide presentation of the application by slidify can be seen following the link http://rpubs.com/carrotzz/DDPProjPres
+
+
 
 
